@@ -1,0 +1,19 @@
+# Environment variables
+.env
+
+# Django
+db.sqlite3
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+media/
+
+# Python
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+pip-wheel-metadata/
