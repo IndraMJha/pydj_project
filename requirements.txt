@@ -5,4 +5,4 @@ psycopg2-binary==2.9.11
 python-decouple==3.8
 sqlparse==0.5.5
 ##decouple###
-pip==3.25
+pip==3.15
