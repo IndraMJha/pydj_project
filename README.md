@@ -1,5 +1,5 @@
 # pydj_project
-
+#Python Django Test Project by Indra.
 This is a foundational Django project configured with best practices for security and environment management. It serves as a robust starting point for building scalable and maintainable web applications.
 
 ## Features
