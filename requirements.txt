@@ -1,3 +1,4 @@
+////install requirements before running app
 asgiref==3.11.1
 bootstrap4==0.1.0
 Django==6.0.3
